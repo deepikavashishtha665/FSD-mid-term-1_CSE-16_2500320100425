@@ -1,5 +1,8 @@
 # FSD Mid-Term 1
 
+- **Name**: Deepika Vashishtha
+-**Class**: CSE-16
+-**Roll NO.** : 2500320100425
 ## Backend Development
 
 ### Technologies Used
